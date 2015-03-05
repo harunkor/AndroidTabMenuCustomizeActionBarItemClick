@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.androidtabmenucustomizeactionbaritemclick.MainActivity" >
+
+    <item
+        android:id="@+id/ItemIcon"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        android:icon="@android:drawable/ic_dialog_info"
+        app:showAsAction="always"/>
+
+</menu>
