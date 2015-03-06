@@ -1,4 +1,4 @@
 # Android Tab Menu Customize ActionBar Item Click
 Android Tab Menu  and  Customize ActionBar Item 
 
-![alt tag](https://raw.githubusercontent.com/harunkor/AndroidEditTextKeyboardHidden/master/AndroidEditTextKeyboardHidden/androidhiddenkeyboarddevice2015.png)
+![alt tag](https://github.com/harunkor/AndroidTabMenuCustomizeActionBarItemClick/blob/master/device-2015-03-05-112051.png)
